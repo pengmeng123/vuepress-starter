@@ -4,7 +4,7 @@ module.exports = {
   head: [
     ["link", { rel: "icon", href: "/egg.png" }], //浏览器的标签栏的网页图标
   ],
-  base: "/vuepress-starter/", // 这是部署到github相关的配置
+  base: "/vuepress-page/", // 这是部署到github相关的配置
   markdown: {
     lineNumbers: false, // 代码块显示行号
   },
